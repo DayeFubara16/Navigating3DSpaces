@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 108
+  controlID: 99
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 39
+  controlID: 40
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 40
+  controlID: 41
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -326,7 +326,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -336,7 +336,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\DayeF\Documents\TUM\Assignments\Semester 1\3D User
     Intefaces\Navigating3DSpaces
@@ -344,9 +344,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: f2b50000
-    m_LastClickedID: 46578
-    m_ExpandedIDs: 00000000f2b5000000ca9a3bffffff7f
+    m_SelectedIDs: b4b80000
+    m_LastClickedID: 47284
+    m_ExpandedIDs: 00000000d6b6000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -375,7 +375,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f2b50000
+    m_ExpandedIDs: 00000000d6b60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -523,7 +523,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 90caffff0afbffff
+      m_ExpandedIDs: 9a7affffcc94ffff0afbffff04b6000060b60000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1127,9 +1127,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -3.0491467, y: -10.301863, z: 25.562962}
+    m_Target: {x: -8.638414, y: -12.511979, z: 87.98475}
     speed: 2
-    m_Value: {x: -3.0491467, y: -10.301863, z: 25.562962}
+    m_Value: {x: -8.638414, y: -12.511979, z: 87.98475}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1175,13 +1175,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.36625126, y: -0.013659013, z: 0.005399135, w: -0.9304238}
+    m_Target: {x: 0.2274894, y: -0.051098276, z: 0.011977269, w: 0.9724133}
     speed: 2
-    m_Value: {x: -0.36622918, y: -0.01589169, z: 0.006278003, w: -0.9303678}
+    m_Value: {x: 0.22864543, y: -0.051081475, z: 0.012038027, w: 0.9720942}
   m_Size:
-    m_Target: 27.233788
+    m_Target: 41.924183
     speed: 2
-    m_Value: 26.06104
+    m_Value: 41.924183
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1281,10 +1281,10 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 1
-    m_VSlider: 1
+    m_HSlider: 0
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
